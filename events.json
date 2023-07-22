@@ -8,7 +8,7 @@
     "evetsCategories": [
         {
             "title": "اجازات طلاب المدارس 1445",
-            "path": "https://raw.githubusercontent.com/MansoorDotMe/hijri_calendar_events/main/events.json"
+            "path": "https://raw.githubusercontent.com/MansoorDotMe/hijri_calendar_events/main/edu1445.json"
         }
     ]
 }
