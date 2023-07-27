@@ -1,432 +1,431 @@
 {
-	
   "category": [
     {
-      "id": "1",
-      "title": "اجازات طلاب المدارس 1445",
+      "id": 1,
+      "title": "اجازات طلاب المدارس 1445","catID": 1,
       "startDate": "13/08/2023",
       "endDate": "10/16/2024",
-      "version": "1.0",
+      "version": 1,
       "events": [
         {
-          "id": "1",
+          "id": 1,
           "eventDate": "13/08/2023",
           "eventTitle": "عودة المشرفين التربويين ومنسوبي مكاتب التعليم والمدارس والمعاهد في جميع المراحل الدراسية ورياض الأطفال وبداية اختبارات الدور الثاني",
-          "catID": "1",
-          "eventType": "3"
+          "catID": 1,
+          "eventType":  3
         },
         {
-          "id": "2",
+          "id": 2,
           "eventDate": "20/08/2023",
           "eventTitle": "بداية الدراسة للفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "3"
+          "catID": 1,
+          "eventType":  3
         },
         {
-          "id": "3",
+          "id": 3,
           "eventDate": "24/09/2023",
           "eventTitle": "إجازة اليوم الوطني",
-          "catID": "1",
-          "eventType": "2"
+          "catID": 1,
+          "eventType":  2
         },
         {
-          "id": "4",
+          "id": 4,
           "eventDate": "02/11/2023",
           "eventTitle": "إجازة نهاية أسبوع مطولة",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "5",
+          "id": 5,
           "eventDate": "16/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "6",
+          "id": 6,
           "eventDate": "17/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "7",
+          "id": 7,
           "eventDate": "18/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "8",
+          "id": 8,
           "eventDate": "19/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "9",
+          "id": 9,
           "eventDate": "20/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "10",
+          "id": 10,
           "eventDate": "21/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "11",
+          "id": 11,
           "eventDate": "22/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "12",
+          "id": 12,
           "eventDate": "23/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "13",
+          "id": 13,
           "eventDate": "24/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "14",
+          "id": 14,
           "eventDate": "25/11/2023",
           "eventTitle": "إجازة الفصل الدراسي الأول",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "15",
+          "id": 15,
           "eventDate": "26/11/2023",
           "eventTitle": "بداية الدراسة للفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "3"
+          "catID": 1,
+          "eventType":  3
         },
         {
-          "id": "16",
+          "id": 16,
           "eventDate": "17/12/2023",
           "eventTitle": "إجازة نهاية أسبوع مطولة",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "17",
+          "id": 17,
           "eventDate": "04/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "18",
+          "id": 18,
           "eventDate": "05/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "19",
+          "id": 19,
           "eventDate": "06/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "20",
+          "id": 20,
           "eventDate": "07/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "21",
+          "id": 21,
           "eventDate": "08/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "22",
+          "id": 22,
           "eventDate": "09/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "23",
+          "id": 23,
           "eventDate": "10/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "24",
+          "id": 24,
           "eventDate": "11/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "25",
+          "id": 25,
           "eventDate": "12/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "26",
+          "id": 26,
           "eventDate": "13/01/2024",
           "eventTitle": "إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "27",
+          "id": 27,
           "eventDate": "14/01/2024",
           "eventTitle": "بداية الدراسة بعد إجازة منتصف الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "3"
+          "catID": 1,
+          "eventType":  3
         },
         {
-          "id": "28",
+          "id": 28,
           "eventDate": "22/02/2024",
           "eventTitle": "إجازة يوم التأسيس",
-          "catID": "1",
-          "eventType": "2"
+          "catID": 1,
+          "eventType":  2
         },
         {
-          "id": "29",
+          "id": 29,
           "eventDate": "23/02/2024",
           "eventTitle": "إجازة الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "30",
+          "id": 30,
           "eventDate": "24/02/2024",
           "eventTitle": "إجازة الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "31",
+          "id": 31,
           "eventDate": "25/02/2024",
           "eventTitle": "إجازة الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "32",
+          "id": 32,
           "eventDate": "26/02/2024",
           "eventTitle": "إجازة الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "33",
+          "id": 33,
           "eventDate": "27/02/2024",
           "eventTitle": "إجازة الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "34",
+          "id": 34,
           "eventDate": "28/02/2024",
           "eventTitle": "إجازة الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "35",
+          "id": 35,
           "eventDate": "29/02/2024",
           "eventTitle": "إجازة الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "36",
+          "id": 36,
           "eventDate": "01/03/2024",
           "eventTitle": "إجازة الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "37",
+          "id": 37,
           "eventDate": "02/03/2024",
           "eventTitle": "إجازة الفصل الدراسي الثاني",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "38",
+          "id": 38,
           "eventDate": "03/03/2024",
           "eventTitle": "بداية الدراسة للطلاب للفصل الدراسي الثالث",
-          "catID": "1",
-          "eventType": "3"
+          "catID": 1,
+          "eventType":  3
         },
         {
-          "id": "39",
+          "id": 39,
           "eventDate": "28/03/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "40",
+          "id": 40,
           "eventDate": "29/03/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "41",
+          "id": 41,
           "eventDate": "30/03/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "42",
+          "id": 42,
           "eventDate": "31/03/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "43",
+          "id": 43,
           "eventDate": "01/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "44",
+          "id": 44,
           "eventDate": "02/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "45",
+          "id": 45,
           "eventDate": "03/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "46",
+          "id": 46,
           "eventDate": "04/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "47",
+          "id": 47,
           "eventDate": "05/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "48",
+          "id": 48,
           "eventDate": "06/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "49",
+          "id": 49,
           "eventDate": "07/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "50",
+          "id": 50,
           "eventDate": "07/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "51",
+          "id": 51,
           "eventDate": "08/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "52",
+          "id": 52,
           "eventDate": "09/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "53",
+          "id": 53,
           "eventDate": "10/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "54",
+          "id": 54,
           "eventDate": "11/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "55",
+          "id": 55,
           "eventDate": "12/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "56",
+          "id": 56,
           "eventDate": "13/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "57",
+          "id": 57,
           "eventDate": "14/04/2024",
           "eventTitle": "إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "58",
+          "id": 58,
           "eventDate": "15/04/2024",
           "eventTitle": "بداية الدراسة بعد إجازة عيد الفطر",
-          "catID": "1",
-          "eventType": "3"
+          "catID": 1,
+          "eventType":  3
         },
         {
-          "id": "59",
+          "id": 59,
           "eventDate": "02/05/2024",
           "eventTitle": "إجازة نهاية أسبوع مطولة",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         },
         {
-          "id": "60",
+          "id": 60,
           "eventDate": "10/06/2024",
           "eventTitle": "إجازة نهاية العام الدراسي",
-          "catID": "1",
-          "eventType": "1"
+          "catID": 1,
+          "eventType":  1
         }
       ]
     }
